@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8272" started-at="2020-07-30T21:03:20Z" finished-at="2020-07-30T21:03:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8272" started-at="2020-07-30T21:03:20Z" finished-at="2020-07-30T21:03:28Z">
+      <class name="Assignment.briq.AppTest">
+        <test-method status="PASS" signature="excel_json()[pri:0, instance:Assignment.briq.AppTest@52f759d7]" name="excel_json" duration-ms="953" started-at="2020-07-31T02:33:20Z" finished-at="2020-07-31T02:33:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excel_json -->
+        <test-method status="PASS" signature="api_response()[pri:0, instance:Assignment.briq.AppTest@52f759d7]" name="api_response" duration-ms="6844" started-at="2020-07-31T02:33:21Z" finished-at="2020-07-31T02:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api_response -->
+        <test-method status="PASS" signature="test_readPDF_statement()[pri:0, instance:Assignment.briq.AppTest@52f759d7]" name="test_readPDF_statement" duration-ms="393" started-at="2020-07-31T02:33:28Z" finished-at="2020-07-31T02:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_readPDF_statement -->
+        <test-method status="PASS" signature="test_readPDF_active_lice()[pri:0, instance:Assignment.briq.AppTest@52f759d7]" name="test_readPDF_active_lice" duration-ms="48" started-at="2020-07-31T02:33:28Z" finished-at="2020-07-31T02:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_readPDF_active_lice -->
+      </class> <!-- Assignment.briq.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
